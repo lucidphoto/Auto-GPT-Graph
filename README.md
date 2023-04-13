@@ -10,6 +10,7 @@
 git clone https://github.com/kairess/Auto-GPT-Graph
 cd Auto-GPT-Graph
 pip install -r requirements.txt
+cd scripts
 pc init
 pc run
 ```
